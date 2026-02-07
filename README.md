@@ -26,6 +26,7 @@ Celý web se skládá ze čtyř skriptů:
 
 Všechna důležitá místa jsou ve skriptech okomentovaná, takže se zde nebudu o jejich funkci rozepisovat.
 
+⚠️ Obsahu adresáře `admin` si zatím nevšímejte. Přijde na něj řada v další lekci.
 
 
 ## Instalace šablony `web2`
